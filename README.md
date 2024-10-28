@@ -1,3 +1,3 @@
-# Automation Test_olx_LoginFail
+# Automation Test - olx Login Fail succesfully
 
-- Succesfully fails to login on an OLX.ba account
+- Succesfully fails to login on an OLX.ba account using C#
